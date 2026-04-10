@@ -15,8 +15,8 @@ Estou desenvolvendo minhas habilidades em **Java**, **Spring Boot** e **banco de
   <a href="https://github.com/devizy">
     <img src="https://img.shields.io/badge/GitHub-devizy-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="(https://www.linkedin.com/in/israel-sousa-ba99562a2/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
+ <a href="https://www.linkedin.com/in/israel-sousa-ba99562a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
