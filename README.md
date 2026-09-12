@@ -101,8 +101,6 @@ A solução contempla:
 
 Se você possui um problema de negócio que pode ser resolvido através de software, entre em contato.
 
-## 🌐 Onde me encontrar
-
 <p align="left">
   <a href="https://github.com/devizy">
     <img src="https://img.shields.io/badge/GitHub-devizy-181717?style=for-the-badge&logo=github" />
@@ -112,4 +110,3 @@ Se você possui um problema de negócio que pode ser resolvido através de softw
   </a>
 </p>
 
----
