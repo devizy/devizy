@@ -4,7 +4,7 @@
 
 > **Transformo problemas reais de negócio em soluções de software.**
 
-Desenvolvo soluções de software sob medida, buscando entender o problema como um todo — desde os processos e regras de negócio até a arquitetura, desenvolvimento e entrega do sistema.
+Se você procura um profissional para desenvolver uma solução, criar um site, implementar uma funcionalidade, corrigir um problema ou realizar manutenção em um sistema, este perfil é para você.
 
 Minha principal base técnica é o desenvolvimento de aplicações com **Java e Spring Boot**, mas não me limito ao backend. O objetivo é construir **soluções completas**, utilizando as tecnologias e profissionais adequados para cada necessidade.
 
@@ -22,7 +22,18 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 * 🌐 Aplicações web
 
 > **Tecnologia é o meio. A solução é o objetivo.**
-> 
+
+---
+
+## 🤝 O que esperar de mim
+
+* 🧠 Entendimento do problema antes de desenvolver
+* 📋 Documentação das decisões e alterações em formas de docs ou diagramas
+* 💬 Comunicação durante o projeto
+* 🔧 Código organizado e fácil de manter
+* 🧪 Testes e validação das funcionalidades
+* 🚀 Entrega e suporte após a implementação
+
 ---
 
 ## 🎓 Formação
@@ -82,18 +93,6 @@ A solução contempla:
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apache-maven\&logoColor=white)
 
 ---
-
-## 🤝 O que esperar de mim
-
-* 🧠 Entendimento do problema antes de desenvolver
-* 📋 Alinhamento claro sobre o que será feito
-* 💬 Comunicação durante o projeto
-* 🔧 Código organizado e fácil de manter
-* 🧪 Testes e validação das funcionalidades
-* 🚀 Entrega e suporte após a implementação
-  
-
-
 
 ### 📬 Vamos construir uma solução?
 
