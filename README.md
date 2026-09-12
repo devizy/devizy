@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Israel Sousa
 
-### 🚀 Engenheiro de Software Independente (Estudante)
+### 🚀 Engenheiro de Software Independente
 
 🇧🇷 Brasil
 
