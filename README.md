@@ -4,7 +4,7 @@
 
 > **Transformo problemas reais de negócio em soluções de software.**
 
-Se você procura um profissional para desenvolver uma solução, criar um site, implementar uma funcionalidade, corrigir um problema ou realizar manutenção em um sistema, este perfil é para você.
+Se você procura um profissional para desenvolver uma solução, criar um site de pequeno ou médio porte, implementar uma nova funcionalidade, corrigir um problema ou realizar manutenção em um sistema, este perfil é para você.
 
 Minha principal base técnica é o desenvolvimento de aplicações com **Java e Spring Boot**, mas não me limito ao backend. O objetivo é construir **soluções completas**, utilizando as tecnologias e profissionais adequados para cada necessidade.
 
@@ -12,7 +12,7 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 
 ## 💡 O que eu faço
 
-* 🏢 Sistemas personalizados para pequenos negócios
+* 🏢 Sistemas personalizados para negócios de pequeno ou médio porte
 * 🔧 Manutenção e evolução de sistemas
 * 📊 Sistemas de gestão e controle
 * ⚙️ Automação de processos
@@ -31,6 +31,7 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 * 📋 Documentação das decisões e alterações
 * 💬 Comunicação durante o projeto
 * 🔧 Código organizado e fácil de manter
+* 🛡️ Boas práticas básicas de segurança
 * 🧪 Testes e validação das funcionalidades
 * 🚀 Entrega e suporte após a implementação
 
