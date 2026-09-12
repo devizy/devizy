@@ -14,7 +14,7 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 
 ## 💡 O que eu faço
 
-* 🏢 Sistemas personalizados para empresas
+* 🏢 Sistemas personalizados para pequenos negócios
 * 🔧 Manutenção e evolução de sistemas
 * 📊 Sistemas de gestão e controle
 * ⚙️ Automação de processos
@@ -85,25 +85,15 @@ A solução contempla:
 
 ---
 
-## 🧩 Engenharia de Software
+## 🤝 O que esperar de mim
 
-Minha atuação vai além da implementação do código.
-
-Tenho interesse e experiência prática com:
-
-* 📋 Levantamento e análise de requisitos
-* 🧠 Regras de negócio
-* 🏗️ Modelagem de sistemas
-* 🗄️ Modelagem de banco de dados
-* 🔌 Projeto de APIs
-* 🏛️ Arquitetura de software
-* 🔗 Integração entre sistemas
-* 🧪 Testes e qualidade
-* 📚 Documentação técnica
-* 🔧 Manutenção e evolução de sistemas
-
----
-
+* 🧠 Entendimento do problema antes de desenvolver
+* 📋 Alinhamento claro sobre o que será feito
+* 💬 Comunicação durante o projeto
+* 🔧 Código organizado e fácil de manter
+* 🧪 Testes e validação das funcionalidades
+* 🚀 Entrega e suporte após a implementação
+* 
 
 ## 🌐 Onde me encontrar
 
