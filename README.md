@@ -1,8 +1,6 @@
-# Olá 👋, Eu sou Israel Sousa
+# Olá 👋, Eu sou Israel Sousa 🇧🇷 
 
 ### 🚀 Engenheiro de Software Independente
-
-🇧🇷 Brasil
 
 > **Transformo problemas reais de negócio em soluções de software.**
 
