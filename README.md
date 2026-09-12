@@ -93,7 +93,13 @@ A solução contempla:
 * 🔧 Código organizado e fácil de manter
 * 🧪 Testes e validação das funcionalidades
 * 🚀 Entrega e suporte após a implementação
-* 
+  
+
+
+
+### 📬 Vamos construir uma solução?
+
+Se você possui um problema de negócio que pode ser resolvido através de software, entre em contato.
 
 ## 🌐 Onde me encontrar
 
@@ -107,9 +113,3 @@ A solução contempla:
 </p>
 
 ---
-
-### 📬 Vamos construir uma solução?
-
-Se você possui um problema de negócio que pode ser resolvido através de software, entre em contato.
-
-**Problema → Solução → Software**
