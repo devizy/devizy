@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Israel Sousa
 
-### 🚀 Engenheiro de Software Independente
+### 🚀 Engenheiro de Software Independente (Estudante)
 
 🇧🇷 Brasil
 
@@ -9,6 +9,14 @@
 Desenvolvo soluções de software sob medida, buscando entender o problema como um todo — desde os processos e regras de negócio até a arquitetura, desenvolvimento e entrega do sistema.
 
 Minha principal base técnica é o desenvolvimento de aplicações com **Java e Spring Boot**, mas não me limito ao backend. O objetivo é construir **soluções completas**, utilizando as tecnologias e profissionais adequados para cada necessidade.
+
+---
+
+## 🎓 Formação
+
+Atualmente curso **Engenharia de Software**.
+
+Minha atuação profissional é voltada ao **desenvolvimento independente de software**, com foco na criação de soluções personalizadas para problemas reais de negócio.
 
 ---
 
@@ -95,13 +103,6 @@ Tenho interesse e experiência prática com:
 
 ---
 
-## 🎓 Formação
-
-Atualmente curso **Engenharia de Software**.
-
-Minha atuação profissional é voltada ao **desenvolvimento independente de software**, com foco na criação de soluções personalizadas para problemas reais de negócio.
-
----
 
 ## 🌐 Onde me encontrar
 
