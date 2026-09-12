@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Israel Sousa
+# Olá 👋, Eu sou Israel Sousa
 
 ### 🚀 Engenheiro de Software Independente
 
@@ -18,39 +18,12 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 * 📊 Sistemas de gestão e controle
 * ⚙️ Automação de processos
 * 🔗 APIs e integrações entre sistemas
-* 🗄️ Sistemas orientados a banco de dados
 * 📄 Processamento e geração de documentos
 * 💰 Sistemas financeiros e administrativos
 * 🌐 Aplicações web
 
 > **Tecnologia é o meio. A solução é o objetivo.**
-
----
-
-## 🧠 Como desenvolvo uma solução
-
-```text
-       PROBLEMA
-           ↓
-   Entendimento do negócio
-           ↓
-   Levantamento de requisitos
-           ↓
-    Regras de negócio
-           ↓
-     Modelagem da solução
-           ↓
-        Arquitetura
-           ↓
-      Desenvolvimento
-           ↓
-         Entrega
-           ↓
-        Evolução
-```
-
-Procuro compreender como as diferentes partes de um negócio se relacionam antes de definir como o software será construído.
-
+> 
 ---
 
 ## 🏗️ Projetos em destaque
@@ -79,39 +52,6 @@ A solução contempla:
 
 ---
 
-### 💰 Sistema de Gestão de Orçamentos
-
-Aplicação desenvolvida para gerenciamento de clientes, orçamentos, etapas e serviços.
-
-**Tecnologias**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
----
-
-### 🎮 Comparador de Preços de Jogos
-
-Aplicação que utiliza uma API externa para consultar e comparar preços de jogos.
-
-**Tecnologias**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
----
-
-### 📄 Processador de Documentos PDF
-
-Aplicação desenvolvida para processamento e extração de texto de documentos PDF.
-
-**Tecnologias**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PDFBox](https://img.shields.io/badge/Apache_PDFBox-D22128?style=for-the-badge)
-
----
 
 ## 🛠️ Tecnologias
 
