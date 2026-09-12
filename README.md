@@ -29,9 +29,9 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 
 ## 🎓 Formação
 
-Atualmente curso **Engenharia de Software**.
+Atualmente curso o 2º período de **Engenharia de Software**.
 
-Minha atuação profissional é voltada ao **desenvolvimento independente de software**, com foco na criação de soluções personalizadas para problemas reais de negócio.
+A formação complementa minha atuação no desenvolvimento de software, ampliando meus conhecimentos em engenharia, arquitetura, requisitos, modelagem e desenvolvimento de sistemas.
 
 ---
 
