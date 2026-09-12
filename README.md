@@ -12,14 +12,6 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 
 ---
 
-## 🎓 Formação
-
-Atualmente curso **Engenharia de Software**.
-
-Minha atuação profissional é voltada ao **desenvolvimento independente de software**, com foco na criação de soluções personalizadas para problemas reais de negócio.
-
----
-
 ## 💡 O que eu faço
 
 * 🏢 Sistemas personalizados para empresas
@@ -32,6 +24,14 @@ Minha atuação profissional é voltada ao **desenvolvimento independente de sof
 
 > **Tecnologia é o meio. A solução é o objetivo.**
 > 
+---
+
+## 🎓 Formação
+
+Atualmente curso **Engenharia de Software**.
+
+Minha atuação profissional é voltada ao **desenvolvimento independente de software**, com foco na criação de soluções personalizadas para problemas reais de negócio.
+
 ---
 
 ## 🏗️ Projetos em destaque
