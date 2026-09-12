@@ -1,11 +1,165 @@
-# Olá 👋, Eu sou Israel Sousa
+# Olá 👋, eu sou Israel Sousa
 
-🚀 **Desenvolvedor Backend | Java & Spring Boot (em aprendizado)**  
+### 🚀 Engenheiro de Software Independente
+
 🇧🇷 Brasil
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e focado em me tornar um **desenvolvedor backend**.
+> **Transformo problemas reais de negócio em soluções de software.**
 
-Estou desenvolvendo minhas habilidades em **Java**, **Spring Boot** e **banco de dados**, sempre buscando escrever códigos limpos, organizados e escaláveis.
+Desenvolvo soluções de software sob medida, buscando entender o problema como um todo — desde os processos e regras de negócio até a arquitetura, desenvolvimento e entrega do sistema.
+
+Minha principal base técnica é o desenvolvimento de aplicações com **Java e Spring Boot**, mas não me limito ao backend. O objetivo é construir **soluções completas**, utilizando as tecnologias e profissionais adequados para cada necessidade.
+
+---
+
+## 💡 O que eu faço
+
+* 🏢 Sistemas personalizados para empresas
+* 📊 Sistemas de gestão e controle
+* ⚙️ Automação de processos
+* 🔗 APIs e integrações entre sistemas
+* 🗄️ Sistemas orientados a banco de dados
+* 📄 Processamento e geração de documentos
+* 💰 Sistemas financeiros e administrativos
+* 🌐 Aplicações web
+
+> **Tecnologia é o meio. A solução é o objetivo.**
+
+---
+
+## 🧠 Como desenvolvo uma solução
+
+```text
+       PROBLEMA
+           ↓
+   Entendimento do negócio
+           ↓
+   Levantamento de requisitos
+           ↓
+    Regras de negócio
+           ↓
+     Modelagem da solução
+           ↓
+        Arquitetura
+           ↓
+      Desenvolvimento
+           ↓
+         Entrega
+           ↓
+        Evolução
+```
+
+Procuro compreender como as diferentes partes de um negócio se relacionam antes de definir como o software será construído.
+
+---
+
+## 🏗️ Projetos em destaque
+
+### 🏠 Sistema de Gestão de Obras
+
+Sistema desenvolvido para atender às necessidades de uma empresa de reformas e construção.
+
+A solução contempla:
+
+* gerenciamento de obras;
+* gerenciamento de funcionários;
+* controle de presença e falta;
+* cálculo de diárias;
+* controle financeiro;
+* receitas e despesas;
+* regras de acesso;
+* acompanhamento das obras.
+
+**Tecnologias**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+---
+
+### 💰 Sistema de Gestão de Orçamentos
+
+Aplicação desenvolvida para gerenciamento de clientes, orçamentos, etapas e serviços.
+
+**Tecnologias**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+---
+
+### 🎮 Comparador de Preços de Jogos
+
+Aplicação que utiliza uma API externa para consultar e comparar preços de jogos.
+
+**Tecnologias**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+---
+
+### 📄 Processador de Documentos PDF
+
+Aplicação desenvolvida para processamento e extração de texto de documentos PDF.
+
+**Tecnologias**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PDFBox](https://img.shields.io/badge/Apache_PDFBox-D22128?style=for-the-badge)
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Desenvolvimento
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+### 🗄️ Banco de dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### ⚙️ Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apache-maven\&logoColor=white)
+
+---
+
+## 🧩 Engenharia de Software
+
+Minha atuação vai além da implementação do código.
+
+Tenho interesse e experiência prática com:
+
+* 📋 Levantamento e análise de requisitos
+* 🧠 Regras de negócio
+* 🏗️ Modelagem de sistemas
+* 🗄️ Modelagem de banco de dados
+* 🔌 Projeto de APIs
+* 🏛️ Arquitetura de software
+* 🔗 Integração entre sistemas
+* 🧪 Testes e qualidade
+* 📚 Documentação técnica
+* 🔧 Manutenção e evolução de sistemas
+
+---
+
+## 🎓 Formação
+
+Atualmente curso **Engenharia de Software**.
+
+Minha atuação profissional é voltada ao **desenvolvimento independente de software**, com foco na criação de soluções personalizadas para problemas reais de negócio.
 
 ---
 
@@ -15,62 +169,15 @@ Estou desenvolvendo minhas habilidades em **Java**, **Spring Boot** e **banco de
   <a href="https://github.com/devizy">
     <img src="https://img.shields.io/badge/GitHub-devizy-181717?style=for-the-badge&logo=github" />
   </a>
- <a href="https://www.linkedin.com/in/israel-sousa-ba99562a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/israel-sousa-ba99562a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Israel_Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 O que eu faço
+### 📬 Vamos construir uma solução?
 
--   💻 Desenvolvimento backend com Java  
--   🌱 Aprendendo Spring Boot  
--   🗄️ Trabalhando com banco de dados (MySQL)  
--   🔗 Construção de APIs e comunicação cliente-servidor  
--   🧩 Organização de código e boas práticas  
+Se você possui um problema de negócio que pode ser resolvido através de software, entre em contato.
 
----
-
-## 🛠️ Tecnologias
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### Ferramentas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devizy&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devizy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Objetivo
-
-> _"Me tornar um desenvolvedor backend profissional e construir sistemas confiáveis, escaláveis e bem estruturados."_
-
----
-
-⭐ Sempre aprendendo e evoluindo  
-🤝 Aberto a oportunidades e colaborações
+**Problema → Solução → Software**
