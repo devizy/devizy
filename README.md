@@ -15,6 +15,7 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 ## 💡 O que eu faço
 
 * 🏢 Sistemas personalizados para empresas
+* 🔧 Manutenção e evolução de sistemas
 * 📊 Sistemas de gestão e controle
 * ⚙️ Automação de processos
 * 🔗 APIs e integrações entre sistemas
