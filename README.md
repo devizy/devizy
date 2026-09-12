@@ -28,7 +28,7 @@ Minha principal base técnica é o desenvolvimento de aplicações com **Java e 
 ## 🤝 O que esperar de mim
 
 * 🧠 Entendimento do problema antes de desenvolver
-* 📋 Documentação das decisões e alterações em formas de docs ou diagramas
+* 📋 Documentação das decisões e alterações
 * 💬 Comunicação durante o projeto
 * 🔧 Código organizado e fácil de manter
 * 🧪 Testes e validação das funcionalidades
